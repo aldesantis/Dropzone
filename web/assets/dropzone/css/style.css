@@ -1,0 +1,11 @@
+body {
+    padding-top: 30px;
+}
+
+#dropzone {
+    text-align: center;
+}
+
+#file {
+    width: auto;
+}
