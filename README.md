@@ -67,6 +67,7 @@ Create the **app/logs** and **app/cache** directories:
     $ chmod 777 app/logs app/cache
 
 Do the same for your uploads directory.
+
 ### Upload!
 
 Upload everything to your FTP server (make sure **web** is the document root)
