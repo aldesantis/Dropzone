@@ -1,6 +1,5 @@
 vendor
 composer.phar
-composer.lock
 app/config.php
 app/cache
 app/logs
