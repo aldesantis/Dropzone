@@ -1,12 +1,10 @@
 {
     "require": {
         "php": ">=5.3.6",
-        "silex/silex": "*",
+        "silex/silex": "*@dev",
         "twig/twig": "*",
         "monolog/monolog": "*",
         "symfony/twig-bridge": "*",
         "swiftmailer/swiftmailer": "*"
-    },
-
-    "minimum-stability": "dev"
+    }
 }
